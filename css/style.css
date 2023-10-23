@@ -79,10 +79,7 @@ body{
     font-family: 'Mali', cursive;
   }
 
-  /* For mobile phones: */
-  [class*="col-"] {
-    width: 100%;
-  }
+ 
   
   @media only screen and (min-width: 576px) {
     /* For phones: */
